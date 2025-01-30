@@ -66,7 +66,7 @@ const flowComentario = addKeyword(['Comentario', 'Comentarios', 'comentario', '3
     [
         '🙌 Para brindarnos tu comentario, PQR o reseña puedes escribirnos en:',
         ' ',
-        '✔️ https://www.bullmarketing.com.co/contactenos/',
+        '✔️ https://bullmarketing.com.co/contactanos/',
         ' ',
         'También a nuestro correo electrónico:',
         ' ',
